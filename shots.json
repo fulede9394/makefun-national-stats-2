@@ -1,0 +1,6 @@
+[
+  { "name": "1-home.jpg", "query": "#/", "width": 1280, "height": 800 },
+  { "name": "2-country.jpg", "query": "#/country/jpn", "width": 1280, "height": 800 },
+  { "name": "3-compare.jpg", "query": "#/compare", "width": 1280, "height": 800 },
+  { "name": "4-phone.jpg", "query": "#/", "width": 390, "height": 844 }
+]
